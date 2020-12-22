@@ -1,38 +1,13 @@
-# Template pour les projets des Caen.Camp.s
+# Outils pour l'autohébergement des CaenCamp
 
 <!-- LES BADGES
-![Tests](https://github.com/CaenCamp/api-caencamp/workflows/phpunit/badge.svg?branch=main) ![Top language](https://img.shields.io/github/languages/top/CaenCamp/api-caencamp.svg) ![Contributors](https://img.shields.io/github/contributors/CaenCamp/api-caencamp.svg) ![License](https://img.shields.io/github/license/CaenCamp/api-caencamp.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) -->
+![Tests](https://github.com/CaenCamp/api-caencamp/workflows/phpunit/badge.svg?branch=main) ![Top language](https://img.shields.io/github/languages/top/CaenCamp/hebergement-caencamp.svg) ![Contributors](https://img.shields.io/github/contributors/CaenCamp/hebergement-caencamp.svg) ![License](https://img.shields.io/github/license/CaenCamp/hebergement-caencamp.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) -->
 
-<!-- Une description succinct mais motivante du projet. -->
+L’un des objectifs des Coding Caen.Camp.s 2021 est de mettre en place des outils sur lesquels nous avons un plein contrôle. Cela passe donc par de l’autohébergement.
 
-Ce dépôt peut servir de [template](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) lorsque vous créez un nouveau projet Coding Caen.Camp.
+Nous disposons donc d’un serveur qui représente la limite de nos ressources pour nos différents projets. Il s’agit donc de mettre en place les bonnes pratiques permettant d’assurer la sauvegarde et la sécurité des données qui y seront hébergées, mais aussi d’outiller les serveurs afin d’être capable d’estimer le coût en termes de calcule et donc finalement en termes d’énergie de nos outils.
 
-![Utiliser un template de projet](https://github.blog/wp-content/uploads/2019/06/repository-template.gif?w=1024&resize=1024%2C512)
-
-## Démarrage rapide
-
-Une description rapide des [pré-requis](./docs/CONTRIBUTING.md#lenvironnement-de-développement) sur l'environnement local permettant de lancer un `make install`.
-
-Le `Makefile` devra toujours comporter au moins les recettes suivantes :
-
-- help
-- install
-- start
-- test
-
-Vous trouverez plus d'informations sur les `Makefile` sur le [guide des Coding Caen.Camp](https://github.com/CaenCamp/coding-caen-camp/blob/master/formalisme.md#le-makefile).
-
-```bash
-make install
-```
-
-et lancer le projet avec :
-
-```bash
-make start
-```
-
-Le projet est alors disponible sur <http://localhost:xxxx>
+Nous avons un serveur [HP ProDesk 600 G1](https://support.hp.com/fr-fr/product/hp-prodesk-600-g1-desktop-mini-pc/6595197) acheté d'occasion, disposant d'un Intel Core i5 4570T de 8 Go de RAM et d'un SSD de 250Go. Il dispose d'une IP fixe sur une connexion fibre Free personnelle.
 
 ## Participer au projet
 
