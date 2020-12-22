@@ -1,4 +1,4 @@
-# Outils pour l'autohébergement des CaenCamp
+# Outils pour l'auto-hébergement des CaenCamp
 
 <!-- LES BADGES
 ![Tests](https://github.com/CaenCamp/api-caencamp/workflows/phpunit/badge.svg?branch=main) ![Top language](https://img.shields.io/github/languages/top/CaenCamp/hebergement-caencamp.svg) ![Contributors](https://img.shields.io/github/contributors/CaenCamp/hebergement-caencamp.svg) ![License](https://img.shields.io/github/license/CaenCamp/hebergement-caencamp.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) -->
